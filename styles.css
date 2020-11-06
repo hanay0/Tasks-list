@@ -1,0 +1,7 @@
+/* changing styles for delete item */
+.delete-item {
+    cursor: pointer;
+}
+.delete-item i{
+    color: rgba(255, 6, 6, .8);
+}
